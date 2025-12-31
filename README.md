@@ -10,7 +10,7 @@ I’m currently learning <strong>C++ programming fundamentals</strong> and build
 My long-term goal is to become a <strong>professional web developer</strong>.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=Houssaine99&style=flat&color=orange)
 
 </div>
 
@@ -32,7 +32,6 @@ My long-term goal is to become a <strong>professional web developer</strong>.
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ### Web (Learning / Planned)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,8 +40,9 @@ My long-term goal is to become a <strong>professional web developer</strong>.
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
 
 ---
 
