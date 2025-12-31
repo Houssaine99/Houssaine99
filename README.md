@@ -43,6 +43,17 @@ My long-term goal is to become a <strong>professional web developer</strong>.
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Houssaine99&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssaine99&layout=compact&theme=tokyonight" width="48%" />
+
+</div>
 
 ---
 
