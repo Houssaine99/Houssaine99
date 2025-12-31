@@ -45,18 +45,6 @@ My long-term goal is to become a <strong>professional web developer</strong>.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Houssaine99&show_icons=true&theme=tokyonight" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssaine99&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-El%20Houssaine%20Ambarki-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-houssaine-ambarki-7529912ab/)
