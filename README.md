@@ -46,6 +46,13 @@ My long-term goal is to become a <strong>professional web developer</strong>.
 
 ---
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-El%20Houssaine%20Ambarki-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-houssaine-ambarki-7529912ab/)
+[![Email](https://img.shields.io/badge/Email-elhoussaineambarki%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elhoussaineambarki@gmail.com)
+
+---
+
 ## 🧩 Learning Mindset (Code Representation)
 
 ```cpp
